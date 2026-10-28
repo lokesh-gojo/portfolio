@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-voice" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764" />
+      <stop offset="50%" stop-color="#1f1147" />
+      <stop offset="100%" stop-color="#090514" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#bg-voice)"/>
+  
+  <rect x="30" y="30" width="540" height="300" rx="16" fill="#1b1035" stroke="#7e22ce" stroke-width="1.5"/>
+  <circle cx="55" cy="55" r="5" fill="#ef4444"/>
+  <circle cx="70" cy="55" r="5" fill="#f59e0b"/>
+  <circle cx="85" cy="55" r="5" fill="#10b981"/>
+  <text x="110" y="59" fill="#d8b4fe" font-family="system-ui, sans-serif" font-size="12" font-weight="500">voice-chatbot // Speech AI &amp; Desktop Automation</text>
+
+  <rect x="435" y="44" width="120" height="22" rx="11" fill="#a855f7" fill-opacity="0.25" stroke="#a855f7" stroke-width="1"/>
+  <text x="447" y="59" fill="#e9d5ff" font-family="system-ui, sans-serif" font-size="11" font-weight="600">AI Speech</text>
+
+  <text x="50" y="105" fill="#ffffff" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🎙️ AI Voice Chatbot &amp; Assistant</text>
+  <text x="50" y="128" fill="#c084fc" font-family="system-ui, sans-serif" font-size="13">Python Speech Recognition · NLP Natural Query Engine · Task Automation</text>
+
+  <!-- Audio Waveform Visualization -->
+  <g transform="translate(50, 155)">
+    <rect x="0" y="0" width="500" height="110" rx="10" fill="#0d071c" stroke="#581c87" stroke-width="1"/>
+    
+    <!-- Audio waves -->
+    <g fill="#c084fc">
+      <rect x="30" y="45" width="6" height="20" rx="3"/>
+      <rect x="45" y="35" width="6" height="40" rx="3"/>
+      <rect x="60" y="20" width="6" height="70" rx="3" fill="#e879f9"/>
+      <rect x="75" y="30" width="6" height="50" rx="3"/>
+      <rect x="90" y="40" width="6" height="30" rx="3"/>
+      <rect x="105" y="25" width="6" height="60" rx="3" fill="#e879f9"/>
+      <rect x="120" y="15" width="6" height="80" rx="3" fill="#f43f5e"/>
+      <rect x="135" y="28" width="6" height="54" rx="3"/>
+      <rect x="150" y="42" width="6" height="26" rx="3"/>
+      <rect x="165" y="32" width="6" height="46" rx="3"/>
+      <rect x="180" y="22" width="6" height="66" rx="3" fill="#e879f9"/>
+      <rect x="195" y="38" width="6" height="34" rx="3"/>
+      <rect x="210" y="45" width="6" height="20" rx="3"/>
+      <rect x="225" y="30" width="6" height="50" rx="3"/>
+      <rect x="240" y="18" width="6" height="74" rx="3" fill="#e879f9"/>
+      <rect x="255" y="35" width="6" height="40" rx="3"/>
+      <rect x="270" y="44" width="6" height="22" rx="3"/>
+      <rect x="285" y="25" width="6" height="60" rx="3"/>
+      <rect x="300" y="15" width="6" height="80" rx="3" fill="#f43f5e"/>
+      <rect x="315" y="30" width="6" height="50" rx="3"/>
+      <rect x="330" y="40" width="6" height="30" rx="3"/>
+      <rect x="345" y="22" width="6" height="66" rx="3" fill="#e879f9"/>
+      <rect x="360" y="35" width="6" height="40" rx="3"/>
+      <rect x="375" y="45" width="6" height="20" rx="3"/>
+      <rect x="390" y="28" width="6" height="54" rx="3"/>
+      <rect x="405" y="18" width="6" height="74" rx="3" fill="#e879f9"/>
+      <rect x="420" y="32" width="6" height="46" rx="3"/>
+      <rect x="435" y="42" width="6" height="26" rx="3"/>
+      <rect x="450" y="30" width="6" height="50" rx="3"/>
+      <rect x="465" y="45" width="6" height="20" rx="3"/>
+    </g>
+  </g>
+
+  <!-- Tech tags -->
+  <g transform="translate(50, 290)">
+    <rect x="0" y="0" width="75" height="24" rx="6" fill="#8b5cf6" fill-opacity="0.3"/>
+    <text x="14" y="16" fill="#d8b4fe" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Python</text>
+
+    <rect x="85" y="0" width="130" height="24" rx="6" fill="#ec4899" fill-opacity="0.3"/>
+    <text x="97" y="16" fill="#fbcfe8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">SpeechRecognition</text>
+
+    <rect x="225" y="0" width="105" height="24" rx="6" fill="#3b82f6" fill-opacity="0.3"/>
+    <text x="237" y="16" fill="#bfdbfe" font-family="system-ui, sans-serif" font-size="11" font-weight="600">NLP Engine</text>
+
+    <rect x="340" y="0" width="150" height="24" rx="6" fill="#10b981" fill-opacity="0.3"/>
+    <text x="352" y="16" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Automation Scripts</text>
+  </g>
+</svg>
+

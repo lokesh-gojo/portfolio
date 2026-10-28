@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-trackit" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c192c" />
+      <stop offset="50%" stop-color="#14284b" />
+      <stop offset="100%" stop-color="#091222" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#bg-trackit)"/>
+  
+  <rect x="30" y="30" width="540" height="300" rx="16" fill="#0d1b30" stroke="#1d4ed8" stroke-width="1.5"/>
+  <circle cx="55" cy="55" r="5" fill="#ef4444"/>
+  <circle cx="70" cy="55" r="5" fill="#f59e0b"/>
+  <circle cx="85" cy="55" r="5" fill="#10b981"/>
+  <text x="110" y="59" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="12" font-weight="500">track-it-invest // Personal Finance &amp; Asset Tracker</text>
+
+  <rect x="430" y="44" width="125" height="22" rx="11" fill="#3b82f6" fill-opacity="0.25" stroke="#3b82f6" stroke-width="1"/>
+  <text x="442" y="59" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11" font-weight="600">FinTech Web</text>
+
+  <text x="50" y="105" fill="#ffffff" font-family="system-ui, sans-serif" font-size="22" font-weight="700">📈 Track It Invest</text>
+  <text x="50" y="128" fill="#60a5fa" font-family="system-ui, sans-serif" font-size="13">Responsive Investment Portfolio Tracking &amp; Asset Growth Dashboard</text>
+
+  <!-- Financial Chart Mockup -->
+  <g transform="translate(50, 145)">
+    <rect x="0" y="0" width="310" height="125" rx="10" fill="#0b172a" stroke="#1e3a8a" stroke-width="1"/>
+    <text x="15" y="24" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="12">Portfolio Growth Overview</text>
+    <text x="15" y="50" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="700">+28.4% Net Return</text>
+    <!-- Trend curve -->
+    <path d="M 15 105 Q 80 95, 140 75 T 220 55 T 290 35" fill="none" stroke="#38bdf8" stroke-width="3"/>
+    <circle cx="290" cy="35" r="4" fill="#38bdf8"/>
+
+    <rect x="325" y="0" width="175" height="125" rx="10" fill="#0b172a" stroke="#1e3a8a" stroke-width="1"/>
+    <text x="340" y="24" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="12">Asset Allocation</text>
+    <rect x="340" y="42" width="145" height="10" rx="5" fill="#1e293b"/>
+    <rect x="340" y="42" width="95" height="10" rx="5" fill="#3b82f6"/>
+    <text x="340" y="72" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Equities: 65%</text>
+    <text x="340" y="90" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Crypto &amp; Gold: 20%</text>
+    <text x="340" y="108" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Fixed Income: 15%</text>
+  </g>
+
+  <!-- Tech tags -->
+  <g transform="translate(50, 290)">
+    <rect x="0" y="0" width="75" height="24" rx="6" fill="#3b82f6" fill-opacity="0.3"/>
+    <text x="14" y="16" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11" font-weight="600">HTML5</text>
+
+    <rect x="85" y="0" width="75" height="24" rx="6" fill="#60a5fa" fill-opacity="0.3"/>
+    <text x="100" y="16" fill="#bfdbfe" font-family="system-ui, sans-serif" font-size="11" font-weight="600">CSS3</text>
+
+    <rect x="170" y="0" width="85" height="24" rx="6" fill="#eab308" fill-opacity="0.3"/>
+    <text x="180" y="16" fill="#fef08a" font-family="system-ui, sans-serif" font-size="11" font-weight="600">JavaScript</text>
+
+    <rect x="265" y="0" width="105" height="24" rx="6" fill="#10b981" fill-opacity="0.3"/>
+    <text x="277" y="16" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">FinTech UI</text>
+
+    <rect x="380" y="0" width="120" height="24" rx="6" fill="#8b5cf6" fill-opacity="0.3"/>
+    <text x="392" y="16" fill="#c4b5fd" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Data Analytics</text>
+  </g>
+</svg>
+

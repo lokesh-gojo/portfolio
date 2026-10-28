@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <circle cx="32" cy="32" r="30" fill="url(#grad-intern)" />
+  <rect x="18" y="22" width="28" height="24" rx="4" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M26 18H38V22H26V18Z" fill="#38BDF8"/>
+  <path d="M23 30L27 34L23 38" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="30" y1="38" x2="37" y2="38" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="grad-intern" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>
+

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-acadex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="50%" stop-color="#312e81" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#bg-acadex)"/>
+  
+  <rect x="30" y="30" width="540" height="300" rx="16" fill="#18182f" stroke="#4f46e5" stroke-width="1.5"/>
+  <circle cx="55" cy="55" r="5" fill="#ef4444"/>
+  <circle cx="70" cy="55" r="5" fill="#f59e0b"/>
+  <circle cx="85" cy="55" r="5" fill="#10b981"/>
+  <text x="110" y="59" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="12" font-weight="500">adcadex-lms // Next-Gen Learning &amp; Placement Suite</text>
+
+  <!-- Live Demo Badge -->
+  <rect x="420" y="44" width="135" height="22" rx="11" fill="#10b981" fill-opacity="0.25" stroke="#10b981" stroke-width="1"/>
+  <circle cx="432" cy="55" r="3.5" fill="#10b981"/>
+  <text x="442" y="59" fill="#6ee7b7" font-family="system-ui, sans-serif" font-size="11" font-weight="700">● Live Deployed</text>
+
+  <text x="50" y="105" fill="#ffffff" font-family="system-ui, sans-serif" font-size="22" font-weight="700">🎓 Acadex LMS Platform</text>
+  <text x="50" y="128" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="13">Admin, Faculty &amp; Student Dashboards · Online Code Compiler · AI ATS Resume</text>
+
+  <!-- 3 Role Columns -->
+  <g transform="translate(50, 145)">
+    <rect x="0" y="0" width="155" height="70" rx="8" fill="#242145" stroke="#4338ca" stroke-width="1"/>
+    <text x="15" y="24" fill="#a5b4fc" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Admin Analytics</text>
+    <text x="15" y="42" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">Placement Trackers</text>
+    <text x="15" y="58" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Certificates &amp; Reports</text>
+
+    <rect x="170" y="0" width="155" height="70" rx="8" fill="#242145" stroke="#4338ca" stroke-width="1"/>
+    <text x="185" y="24" fill="#818cf8" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Faculty Portal</text>
+    <text x="185" y="42" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">Quiz &amp; Assignments</text>
+    <text x="185" y="58" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Attendance Management</text>
+
+    <rect x="340" y="0" width="160" height="70" rx="8" fill="#242145" stroke="#4338ca" stroke-width="1"/>
+    <text x="355" y="24" fill="#67e8f9" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Student Sandbox</text>
+    <text x="355" y="42" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">In-browser Compiler</text>
+    <text x="355" y="58" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">AI ATS Resume Builder</text>
+  </g>
+
+  <!-- Live link prompt -->
+  <rect x="50" y="225" width="500" height="50" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="65" y="248" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Live URL:</text>
+  <text x="135" y="248" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="12">https://lokesh-gojo.github.io/adcadex-lms/</text>
+  <text x="65" y="265" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Responsive UI across mobile &amp; desktop · PWA-ready Service Worker &amp; Offline Notes</text>
+
+  <!-- Tech tags -->
+  <g transform="translate(50, 290)">
+    <rect x="0" y="0" width="75" height="24" rx="6" fill="#6366f1" fill-opacity="0.3"/>
+    <text x="12" y="16" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="11" font-weight="600">HTML5</text>
+
+    <rect x="85" y="0" width="75" height="24" rx="6" fill="#3b82f6" fill-opacity="0.3"/>
+    <text x="100" y="16" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="11" font-weight="600">CSS3</text>
+
+    <rect x="170" y="0" width="85" height="24" rx="6" fill="#eab308" fill-opacity="0.3"/>
+    <text x="180" y="16" fill="#fef08a" font-family="system-ui, sans-serif" font-size="11" font-weight="600">JavaScript</text>
+
+    <rect x="265" y="0" width="100" height="24" rx="6" fill="#ec4899" fill-opacity="0.3"/>
+    <text x="277" y="16" fill="#fbcfe8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">LMS Suite</text>
+
+    <rect x="375" y="0" width="125" height="24" rx="6" fill="#10b981" fill-opacity="0.3"/>
+    <text x="387" y="16" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="11" font-weight="600">ATS Resume AI</text>
+  </g>
+</svg>
+

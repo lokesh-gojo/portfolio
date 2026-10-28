@@ -17,8 +17,12 @@ const EarthCanvas = () => {
     <Canvas
       shadows
       frameloop="demand"
-      dpr={[1, 2]}
-      gl={{ preserveDrawingBuffer: true }}
+      dpr={[1, 1.5]}
+      gl={{ preserveDrawingBuffer: false, alpha: true }}
+      style={{ background: "transparent" }}
+      onCreated={({ gl }) => {
+        gl.setClearColor(0x000000, 0);
+      }}
       camera={{
         fov: 45,
         near: 0.1,
